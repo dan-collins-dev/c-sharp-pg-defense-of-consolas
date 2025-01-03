@@ -4,7 +4,7 @@ Challenge from [The C# Player's Guide](https://csharpplayersguide.com/) by RB Wh
 Note: Level 8 Challenge
 
 ### The Defense of Consolas: 200xp
-- [ ] Completed
+- [X] Completed
 
 #### Objectives
 - Ask the user for the target row and column
